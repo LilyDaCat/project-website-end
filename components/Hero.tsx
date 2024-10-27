@@ -20,7 +20,7 @@ const Hero = () => {
             SINGITRONIC
           </h1>
           <p className="text-white max-sm:text-sm">
-          Chào mừng bạn đến với "SINGITRONIC" - nơi hội tụ những sản phẩm tiên tiến nhất, được thiết kế để đáp ứng nhu cầu ngày càng cao của người tiêu dùng hiện đại. Với giao diện thân thiện và dễ sử dụng, trang web của chúng tôi cung cấp một trải nghiệm mua sắm trực tuyến tuyệt vời, từ những sản phẩm điện tử cao cấp đến các mặt hàng thời trang đẳng cấp. Đội ngũ của chúng tôi luôn cập nhật những xu hướng mới nhất và cam kết mang đến cho bạn những sản phẩm chất lượng nhất, giúp cuộc sống của bạn trở nên dễ dàng và tiện nghi hơn. Khám phá ngay hôm nay và trải nghiệm sự khác biệt với "SINGITRONIC"!
+          Chào mừng bạn đến với &quot;SINGITRONIC&quot; - nơi hội tụ những sản phẩm tiên tiến nhất, được thiết kế để đáp ứng nhu cầu ngày càng cao của người tiêu dùng hiện đại. Với giao diện thân thiện và dễ sử dụng, trang web của chúng tôi cung cấp một trải nghiệm mua sắm trực tuyến tuyệt vời, từ những sản phẩm điện tử cao cấp đến các mặt hàng thời trang đẳng cấp. Đội ngũ của chúng tôi luôn cập nhật những xu hướng mới nhất và cam kết mang đến cho bạn những sản phẩm chất lượng nhất, giúp cuộc sống của bạn trở nên dễ dàng và tiện nghi hơn. Khám phá ngay hôm nay và trải nghiệm sự khác biệt với &quot;SINGITRONIC&quot;!
           </p>
           <div className="flex gap-x-1 max-lg:flex-col max-lg:gap-y-1">
             <button className="bg-white text-blue-600 font-bold px-12 py-3 max-lg:text-xl max-sm:text-lg hover:bg-gray-100">
